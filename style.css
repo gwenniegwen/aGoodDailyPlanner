@@ -1,0 +1,49 @@
+body{
+background-color: rgba(120,192,104,1);
+margin: 0;
+padding:0;
+overflow: hidden;}
+
+.container {
+    align-content: center;
+    background-color: #f5f687;
+    border:#f64b3c; 
+    font-family: 'Oswald', sans-serif;
+
+    font-size: 16px ;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 10px;
+    text-align: center;
+  
+   
+}
+
+.container-fluid{
+    align-content: center;
+    margin-top: 8px;
+    box-shadow: 10px 10px 5px 0px rgba(120,192,104,1);
+    padding: 8px;
+    border:#42240c 2px solid; 
+    width: 1100px;
+    background-color: #f5f687; 
+
+}
+
+
+.input-group-text{font-family: 'Oswald', sans-serif;
+
+
+border:#42240c 2px solid;
+padding: 2px;
+ }
+
+ .form-control{ 
+     border: #42240c 2px solid;
+     border-style: double;
+ }
+
+ button{ 
+     border: solid 1px #f64b3c;
+     padding: 2px;
+ }
